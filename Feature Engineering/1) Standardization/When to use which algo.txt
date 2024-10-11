@@ -1,0 +1,7 @@
+Algorithms
+
+k-mean
+k-nearest-neighbours
+pca
+ann
+gradient descent
